@@ -8,5 +8,4 @@
 4. Запустить проект
 `./manage.py runserver 9000`
 5. Открыть `http://127.0.0.1:9000/test/`  
-В поле "Content" вставить данные: `{"paymentMethod": "CASH", "type": "SELL"}`  
 Отправить запрос
